@@ -14,8 +14,8 @@ export interface IAirport {
   name: string
   city: string
   country: string
-  type: "International" | "Domestic"
-  continent: Continent
+  type: string
+  continent: string
   timezone: string
   passengerVolume: string
   yearOpened: number
@@ -26,6 +26,6 @@ export interface IAirport {
 
 export interface ICountry {
   countryCode: string
-  continent: Continent
+  continent: string
   flag: string
 }
