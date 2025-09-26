@@ -1,1502 +1,1752 @@
-{
-  "Andorra": {
+[
+  {
+    "name": "Andorra",
     "countryCode": "AD",
     "continent": "Europe",
     "flag": "🇦🇩",
     "phone": "+376"
   },
-  "United Arab Emirates": {
+  {
+    "name": "United Arab Emirates",
     "countryCode": "AE",
     "continent": "Asia",
     "flag": "🇦🇪",
     "phone": "+971"
   },
-  "Afghanistan": {
+  {
+    "name": "Afghanistan",
     "countryCode": "AF",
     "continent": "Asia",
     "flag": "🇦🇫",
     "phone": "+93"
   },
-  "Antigua and Barbuda": {
+  {
+    "name": "Antigua and Barbuda",
     "countryCode": "AG",
     "continent": "North America",
     "flag": "🇦🇬",
     "phone": "+1268"
   },
-  "Anguilla": {
+  {
+    "name": "Anguilla",
     "countryCode": "AI",
     "continent": "North America",
     "flag": "🇦🇮",
     "phone": "+1264"
   },
-  "Albania": {
+  {
+    "name": "Albania",
     "countryCode": "AL",
     "continent": "Europe",
     "flag": "🇦🇱",
     "phone": "+355"
   },
-  "Armenia": {
+  {
+    "name": "Armenia",
     "countryCode": "AM",
     "continent": "Asia",
     "flag": "🇦🇲",
     "phone": "+374"
   },
-  "Angola": {
+  {
+    "name": "Angola",
     "countryCode": "AO",
     "continent": "Africa",
     "flag": "🇦🇴",
     "phone": "+244"
   },
-  "Antarctica": {
+  {
+    "name": "Antarctica",
     "countryCode": "AQ",
     "continent": "Antarctica",
     "flag": "🇦🇶",
     "phone": "+672"
   },
-  "Argentina": {
+  {
+    "name": "Argentina",
     "countryCode": "AR",
     "continent": "South America",
     "flag": "🇦🇷",
     "phone": "+54"
   },
-  "American Samoa": {
+  {
+    "name": "American Samoa",
     "countryCode": "AS",
     "continent": "Oceania",
     "flag": "🇦🇸",
     "phone": "+1684"
   },
-  "Austria": {
+  {
+    "name": "Austria",
     "countryCode": "AT",
     "continent": "Europe",
     "flag": "🇦🇹",
     "phone": "+43"
   },
-  "Australia": {
+  {
+    "name": "Australia",
     "countryCode": "AU",
     "continent": "Oceania",
     "flag": "🇦🇺",
     "phone": "+61"
   },
-  "Aruba": {
+  {
+    "name": "Aruba",
     "countryCode": "AW",
     "continent": "North America",
     "flag": "🇦🇼",
     "phone": "+297"
   },
-  "Aland": {
+  {
+    "name": "Aland",
     "countryCode": "AX",
     "continent": "Europe",
     "flag": "🇦🇽",
     "phone": "+358"
   },
-  "Azerbaijan": {
+  {
+    "name": "Azerbaijan",
     "countryCode": "AZ",
     "continent": "Asia",
     "flag": "🇦🇿",
     "phone": "+994"
   },
-  "Bosnia and Herzegovina": {
+  {
+    "name": "Bosnia and Herzegovina",
     "countryCode": "BA",
     "continent": "Europe",
     "flag": "🇧🇦",
     "phone": "+387"
   },
-  "Barbados": {
+  {
+    "name": "Barbados",
     "countryCode": "BB",
     "continent": "North America",
     "flag": "🇧🇧",
     "phone": "+1246"
   },
-  "Bangladesh": {
+  {
+    "name": "Bangladesh",
     "countryCode": "BD",
     "continent": "Asia",
     "flag": "🇧🇩",
     "phone": "+880"
   },
-  "Belgium": {
+  {
+    "name": "Belgium",
     "countryCode": "BE",
     "continent": "Europe",
     "flag": "🇧🇪",
     "phone": "+32"
   },
-  "Burkina Faso": {
+  {
+    "name": "Burkina Faso",
     "countryCode": "BF",
     "continent": "Africa",
     "flag": "🇧🇫",
     "phone": "+226"
   },
-  "Bulgaria": {
+  {
+    "name": "Bulgaria",
     "countryCode": "BG",
     "continent": "Europe",
     "flag": "🇧🇬",
     "phone": "+359"
   },
-  "Bahrain": {
+  {
+    "name": "Bahrain",
     "countryCode": "BH",
     "continent": "Asia",
     "flag": "🇧🇭",
     "phone": "+973"
   },
-  "Burundi": {
+  {
+    "name": "Burundi",
     "countryCode": "BI",
     "continent": "Africa",
     "flag": "🇧🇮",
     "phone": "+257"
   },
-  "Benin": {
+  {
+    "name": "Benin",
     "countryCode": "BJ",
     "continent": "Africa",
     "flag": "🇧🇯",
     "phone": "+229"
   },
-  "Saint Barthelemy": {
+  {
+    "name": "Saint Barthelemy",
     "countryCode": "BL",
     "continent": "North America",
     "flag": "🇧🇱",
     "phone": "+590"
   },
-  "Bermuda": {
+  {
+    "name": "Bermuda",
     "countryCode": "BM",
     "continent": "North America",
     "flag": "🇧🇲",
     "phone": "+1441"
   },
-  "Brunei": {
+  {
+    "name": "Brunei",
     "countryCode": "BN",
     "continent": "Asia",
     "flag": "🇧🇳",
     "phone": "+673"
   },
-  "Bolivia": {
+  {
+    "name": "Bolivia",
     "countryCode": "BO",
     "continent": "South America",
     "flag": "🇧🇴",
     "phone": "+591"
   },
-  "Bonaire": {
+  {
+    "name": "Bonaire",
     "countryCode": "BQ",
     "continent": "North America",
     "flag": "🇧🇶",
     "phone": "+5997"
   },
-  "Brazil": {
+  {
+    "name": "Brazil",
     "countryCode": "BR",
     "continent": "South America",
     "flag": "🇧🇷",
     "phone": "+55"
   },
-  "Bahamas": {
+  {
+    "name": "Bahamas",
     "countryCode": "BS",
     "continent": "North America",
     "flag": "🇧🇸",
     "phone": "+1242"
   },
-  "Bhutan": {
+  {
+    "name": "Bhutan",
     "countryCode": "BT",
     "continent": "Asia",
     "flag": "🇧🇹",
     "phone": "+975"
   },
-  "Bouvet Island": {
+  {
+    "name": "Bouvet Island",
     "countryCode": "BV",
     "continent": "Antarctica",
     "flag": "🇧🇻",
     "phone": "+47"
   },
-  "Botswana": {
+  {
+    "name": "Botswana",
     "countryCode": "BW",
     "continent": "Africa",
     "flag": "🇧🇼",
     "phone": "+267"
   },
-  "Belarus": {
+  {
+    "name": "Belarus",
     "countryCode": "BY",
     "continent": "Europe",
     "flag": "🇧🇾",
     "phone": "+375"
   },
-  "Belize": {
+  {
+    "name": "Belize",
     "countryCode": "BZ",
     "continent": "North America",
     "flag": "🇧🇿",
     "phone": "+501"
   },
-  "Canada": {
+  {
+    "name": "Canada",
     "countryCode": "CA",
     "continent": "North America",
     "flag": "🇨🇦",
     "phone": "+1"
   },
-  "Cocos (Keeling) Islands": {
+  {
+    "name": "Cocos (Keeling) Islands",
     "countryCode": "CC",
     "continent": "Asia",
     "flag": "🇨🇨",
     "phone": "+61"
   },
-  "Democratic Republic of the Congo": {
+  {
+    "name": "Democratic Republic of the Congo",
     "countryCode": "CD",
     "continent": "Africa",
     "flag": "🇨🇩",
     "phone": "+243"
   },
-  "Central African Republic": {
+  {
+    "name": "Central African Republic",
     "countryCode": "CF",
     "continent": "Africa",
     "flag": "🇨🇫",
     "phone": "+236"
   },
-  "Republic of the Congo": {
+  {
+    "name": "Republic of the Congo",
     "countryCode": "CG",
     "continent": "Africa",
     "flag": "🇨🇬",
     "phone": "+242"
   },
-  "Switzerland": {
+  {
+    "name": "Switzerland",
     "countryCode": "CH",
     "continent": "Europe",
     "flag": "🇨🇭",
     "phone": "+41"
   },
-  "Ivory Coast": {
+  {
+    "name": "Ivory Coast",
     "countryCode": "CI",
     "continent": "Africa",
     "flag": "🇨🇮",
     "phone": "+225"
   },
-  "Cook Islands": {
+  {
+    "name": "Cook Islands",
     "countryCode": "CK",
     "continent": "Oceania",
     "flag": "🇨🇰",
     "phone": "+682"
   },
-  "Chile": {
+  {
+    "name": "Chile",
     "countryCode": "CL",
     "continent": "South America",
     "flag": "🇨🇱",
     "phone": "+56"
   },
-  "Cameroon": {
+  {
+    "name": "Cameroon",
     "countryCode": "CM",
     "continent": "Africa",
     "flag": "🇨🇲",
     "phone": "+237"
   },
-  "China": {
+  {
+    "name": "China",
     "countryCode": "CN",
     "continent": "Asia",
     "flag": "🇨🇳",
     "phone": "+86"
   },
-  "Colombia": {
+  {
+    "name": "Colombia",
     "countryCode": "CO",
     "continent": "South America",
     "flag": "🇨🇴",
     "phone": "+57"
   },
-  "Costa Rica": {
+  {
+    "name": "Costa Rica",
     "countryCode": "CR",
     "continent": "North America",
     "flag": "🇨🇷",
     "phone": "+506"
   },
-  "Cuba": {
+  {
+    "name": "Cuba",
     "countryCode": "CU",
     "continent": "North America",
     "flag": "🇨🇺",
     "phone": "+53"
   },
-  "Cape Verde": {
+  {
+    "name": "Cape Verde",
     "countryCode": "CV",
     "continent": "Africa",
     "flag": "🇨🇻",
     "phone": "+238"
   },
-  "Curacao": {
+  {
+    "name": "Curacao",
     "countryCode": "CW",
     "continent": "North America",
     "flag": "🇨🇼",
     "phone": "+5999"
   },
-  "Christmas Island": {
+  {
+    "name": "Christmas Island",
     "countryCode": "CX",
     "continent": "Asia",
     "flag": "🇨🇽",
     "phone": "+61"
   },
-  "Cyprus": {
+  {
+    "name": "Cyprus",
     "countryCode": "CY",
     "continent": "Europe",
     "flag": "🇨🇾",
     "phone": "+357"
   },
-  "Czech Republic": {
+  {
+    "name": "Czech Republic",
     "countryCode": "CZ",
     "continent": "Europe",
     "flag": "🇨🇿",
     "phone": "+420"
   },
-  "Germany": {
+  {
+    "name": "Germany",
     "countryCode": "DE",
     "continent": "Europe",
     "flag": "🇩🇪",
     "phone": "+49"
   },
-  "Djibouti": {
+  {
+    "name": "Djibouti",
     "countryCode": "DJ",
     "continent": "Africa",
     "flag": "🇩🇯",
     "phone": "+253"
   },
-  "Denmark": {
+  {
+    "name": "Denmark",
     "countryCode": "DK",
     "continent": "Europe",
     "flag": "🇩🇰",
     "phone": "+45"
   },
-  "Dominica": {
+  {
+    "name": "Dominica",
     "countryCode": "DM",
     "continent": "North America",
     "flag": "🇩🇲",
     "phone": "+1767"
   },
-  "Dominican Republic": {
+  {
+    "name": "Dominican Republic",
     "countryCode": "DO",
     "continent": "North America",
     "flag": "🇩🇴",
     "phone": "+1809"
   },
-  "Algeria": {
+  {
+    "name": "Algeria",
     "countryCode": "DZ",
     "continent": "Africa",
     "flag": "🇩🇿",
     "phone": "+213"
   },
-  "Ecuador": {
+  {
+    "name": "Ecuador",
     "countryCode": "EC",
     "continent": "South America",
     "flag": "🇪🇨",
     "phone": "+593"
   },
-  "Estonia": {
+  {
+    "name": "Estonia",
     "countryCode": "EE",
     "continent": "Europe",
     "flag": "🇪🇪",
     "phone": "+372"
   },
-  "Egypt": {
+  {
+    "name": "Egypt",
     "countryCode": "EG",
     "continent": "Africa",
     "flag": "🇪🇬",
     "phone": "+20"
   },
-  "Western Sahara": {
+  {
+    "name": "Western Sahara",
     "countryCode": "EH",
     "continent": "Africa",
     "flag": "🇪🇭",
     "phone": "+212"
   },
-  "Eritrea": {
+  {
+    "name": "Eritrea",
     "countryCode": "ER",
     "continent": "Africa",
     "flag": "🇪🇷",
     "phone": "+291"
   },
-  "Spain": {
+  {
+    "name": "Spain",
     "countryCode": "ES",
     "continent": "Europe",
     "flag": "🇪🇸",
     "phone": "+34"
   },
-  "Ethiopia": {
+  {
+    "name": "Ethiopia",
     "countryCode": "ET",
     "continent": "Africa",
     "flag": "🇪🇹",
     "phone": "+251"
   },
-  "Finland": {
+  {
+    "name": "Finland",
     "countryCode": "FI",
     "continent": "Europe",
     "flag": "🇫🇮",
     "phone": "+358"
   },
-  "Fiji": {
+  {
+    "name": "Fiji",
     "countryCode": "FJ",
     "continent": "Oceania",
     "flag": "🇫🇯",
     "phone": "+679"
   },
-  "Falkland Islands": {
+  {
+    "name": "Falkland Islands",
     "countryCode": "FK",
     "continent": "South America",
     "flag": "🇫🇰",
     "phone": "+500"
   },
-  "Micronesia": {
+  {
+    "name": "Micronesia",
     "countryCode": "FM",
     "continent": "Oceania",
     "flag": "🇫🇲",
     "phone": "+691"
   },
-  "Faroe Islands": {
+  {
+    "name": "Faroe Islands",
     "countryCode": "FO",
     "continent": "Europe",
     "flag": "🇫🇴",
     "phone": "+298"
   },
-  "France": {
+  {
+    "name": "France",
     "countryCode": "FR",
     "continent": "Europe",
     "flag": "🇫🇷",
     "phone": "+33"
   },
-  "Gabon": {
+  {
+    "name": "Gabon",
     "countryCode": "GA",
     "continent": "Africa",
     "flag": "🇬🇦",
     "phone": "+241"
   },
-  "United Kingdom": {
+  {
+    "name": "United Kingdom",
     "countryCode": "GB",
     "continent": "Europe",
     "flag": "🇬🇧",
     "phone": "+44"
   },
-  "Grenada": {
+  {
+    "name": "Grenada",
     "countryCode": "GD",
     "continent": "North America",
     "flag": "🇬🇩",
     "phone": "+1473"
   },
-  "Georgia": {
+  {
+    "name": "Georgia",
     "countryCode": "GE",
     "continent": "Asia",
     "flag": "🇬🇪",
     "phone": "+995"
   },
-  "French Guiana": {
+  {
+    "name": "French Guiana",
     "countryCode": "GF",
     "continent": "South America",
     "flag": "🇬🇫",
     "phone": "+594"
   },
-  "Guernsey": {
+  {
+    "name": "Guernsey",
     "countryCode": "GG",
     "continent": "Europe",
     "flag": "🇬🇬",
     "phone": "+44"
   },
-  "Ghana": {
+  {
+    "name": "Ghana",
     "countryCode": "GH",
     "continent": "Africa",
     "flag": "🇬🇭",
     "phone": "+233"
   },
-  "Gibraltar": {
+  {
+    "name": "Gibraltar",
     "countryCode": "GI",
     "continent": "Europe",
     "flag": "🇬🇮",
     "phone": "+350"
   },
-  "Greenland": {
+  {
+    "name": "Greenland",
     "countryCode": "GL",
     "continent": "North America",
     "flag": "🇬🇱",
     "phone": "+299"
   },
-  "Gambia": {
+  {
+    "name": "Gambia",
     "countryCode": "GM",
     "continent": "Africa",
     "flag": "🇬🇲",
     "phone": "+220"
   },
-  "Guinea": {
+  {
+    "name": "Guinea",
     "countryCode": "GN",
     "continent": "Africa",
     "flag": "🇬🇳",
     "phone": "+224"
   },
-  "Guadeloupe": {
+  {
+    "name": "Guadeloupe",
     "countryCode": "GP",
     "continent": "North America",
     "flag": "🇬🇵",
     "phone": "+590"
   },
-  "Equatorial Guinea": {
+  {
+    "name": "Equatorial Guinea",
     "countryCode": "GQ",
     "continent": "Africa",
     "flag": "🇬🇶",
     "phone": "+240"
   },
-  "Greece": {
+  {
+    "name": "Greece",
     "countryCode": "GR",
     "continent": "Europe",
     "flag": "🇬🇷",
     "phone": "+30"
   },
-  "South Georgia and the South Sandwich Islands": {
+  {
+    "name": "South Georgia and the South Sandwich Islands",
     "countryCode": "GS",
     "continent": "Antarctica",
     "flag": "🇬🇸",
     "phone": "+500"
   },
-  "Guatemala": {
+  {
+    "name": "Guatemala",
     "countryCode": "GT",
     "continent": "North America",
     "flag": "🇬🇹",
     "phone": "+502"
   },
-  "Guam": {
+  {
+    "name": "Guam",
     "countryCode": "GU",
     "continent": "Oceania",
     "flag": "🇬🇺",
     "phone": "+1671"
   },
-  "Guinea-Bissau": {
+  {
+    "name": "Guinea-Bissau",
     "countryCode": "GW",
     "continent": "Africa",
     "flag": "🇬🇼",
     "phone": "+245"
   },
-  "Guyana": {
+  {
+    "name": "Guyana",
     "countryCode": "GY",
     "continent": "South America",
     "flag": "🇬🇾",
     "phone": "+592"
   },
-  "Hong Kong": {
+  {
+    "name": "Hong Kong",
     "countryCode": "HK",
     "continent": "Asia",
     "flag": "🇭🇰",
     "phone": "+852"
   },
-  "Heard Island and McDonald Islands": {
+  {
+    "name": "Heard Island and McDonald Islands",
     "countryCode": "HM",
     "continent": "Antarctica",
     "flag": "🇭🇲",
     "phone": "+61"
   },
-  "Honduras": {
+  {
+    "name": "Honduras",
     "countryCode": "HN",
     "continent": "North America",
     "flag": "🇭🇳",
     "phone": "+504"
   },
-  "Croatia": {
+  {
+    "name": "Croatia",
     "countryCode": "HR",
     "continent": "Europe",
     "flag": "🇭🇷",
     "phone": "+385"
   },
-  "Haiti": {
+  {
+    "name": "Haiti",
     "countryCode": "HT",
     "continent": "North America",
     "flag": "🇭🇹",
     "phone": "+509"
   },
-  "Hungary": {
+  {
+    "name": "Hungary",
     "countryCode": "HU",
     "continent": "Europe",
     "flag": "🇭🇺",
     "phone": "+36"
   },
-  "Indonesia": {
+  {
+    "name": "Indonesia",
     "countryCode": "ID",
     "continent": "Asia",
     "flag": "🇮🇩",
     "phone": "+62"
   },
-  "Ireland": {
+  {
+    "name": "Ireland",
     "countryCode": "IE",
     "continent": "Europe",
     "flag": "🇮🇪",
     "phone": "+353"
   },
-  "Israel": {
+  {
+    "name": "Israel",
     "countryCode": "IL",
     "continent": "Asia",
     "flag": "🇮🇱",
     "phone": "+972"
   },
-  "Isle of Man": {
+  {
+    "name": "Isle of Man",
     "countryCode": "IM",
     "continent": "Europe",
     "flag": "🇮🇲",
     "phone": "+44"
   },
-  "India": {
+  {
+    "name": "India",
     "countryCode": "IN",
     "continent": "Asia",
     "flag": "🇮🇳",
     "phone": "+91"
   },
-  "British Indian Ocean Territory": {
+  {
+    "name": "British Indian Ocean Territory",
     "countryCode": "IO",
     "continent": "Asia",
     "flag": "🇮🇴",
     "phone": "+246"
   },
-  "Iraq": {
+  {
+    "name": "Iraq",
     "countryCode": "IQ",
     "continent": "Asia",
     "flag": "🇮🇶",
     "phone": "+964"
   },
-  "Iran": {
+  {
+    "name": "Iran",
     "countryCode": "IR",
     "continent": "Asia",
     "flag": "🇮🇷",
     "phone": "+98"
   },
-  "Iceland": {
+  {
+    "name": "Iceland",
     "countryCode": "IS",
     "continent": "Europe",
     "flag": "🇮🇸",
     "phone": "+354"
   },
-  "Italy": {
+  {
+    "name": "Italy",
     "countryCode": "IT",
     "continent": "Europe",
     "flag": "🇮🇹",
     "phone": "+39"
   },
-  "Jersey": {
+  {
+    "name": "Jersey",
     "countryCode": "JE",
     "continent": "Europe",
     "flag": "🇯🇪",
     "phone": "+44"
   },
-  "Jamaica": {
+  {
+    "name": "Jamaica",
     "countryCode": "JM",
     "continent": "North America",
     "flag": "🇯🇲",
     "phone": "+1876"
   },
-  "Jordan": {
+  {
+    "name": "Jordan",
     "countryCode": "JO",
     "continent": "Asia",
     "flag": "🇯🇴",
     "phone": "+962"
   },
-  "Japan": {
+  {
+    "name": "Japan",
     "countryCode": "JP",
     "continent": "Asia",
     "flag": "🇯🇵",
     "phone": "+81"
   },
-  "Kenya": {
+  {
+    "name": "Kenya",
     "countryCode": "KE",
     "continent": "Africa",
     "flag": "🇰🇪",
     "phone": "+254"
   },
-  "Kyrgyzstan": {
+  {
+    "name": "Kyrgyzstan",
     "countryCode": "KG",
     "continent": "Asia",
     "flag": "🇰🇬",
     "phone": "+996"
   },
-  "Cambodia": {
+  {
+    "name": "Cambodia",
     "countryCode": "KH",
     "continent": "Asia",
     "flag": "🇰🇭",
     "phone": "+855"
   },
-  "Kiribati": {
+  {
+    "name": "Kiribati",
     "countryCode": "KI",
     "continent": "Oceania",
     "flag": "🇰🇮",
     "phone": "+686"
   },
-  "Comoros": {
+  {
+    "name": "Comoros",
     "countryCode": "KM",
     "continent": "Africa",
     "flag": "🇰🇲",
     "phone": "+269"
   },
-  "Saint Kitts and Nevis": {
+  {
+    "name": "Saint Kitts and Nevis",
     "countryCode": "KN",
     "continent": "North America",
     "flag": "🇰🇳",
     "phone": "+1869"
   },
-  "North Korea": {
+  {
+    "name": "North Korea",
     "countryCode": "KP",
     "continent": "Asia",
     "flag": "🇰🇵",
     "phone": "+850"
   },
-  "South Korea": {
+  {
+    "name": "South Korea",
     "countryCode": "KR",
     "continent": "Asia",
     "flag": "🇰🇷",
     "phone": "+82"
   },
-  "Kuwait": {
+  {
+    "name": "Kuwait",
     "countryCode": "KW",
     "continent": "Asia",
     "flag": "🇰🇼",
     "phone": "+965"
   },
-  "Cayman Islands": {
+  {
+    "name": "Cayman Islands",
     "countryCode": "KY",
     "continent": "North America",
     "flag": "🇰🇾",
     "phone": "+1345"
   },
-  "Kazakhstan": {
+  {
+    "name": "Kazakhstan",
     "countryCode": "KZ",
     "continent": "Asia",
     "flag": "🇰🇿",
     "phone": "+7"
   },
-  "Laos": {
+  {
+    "name": "Laos",
     "countryCode": "LA",
     "continent": "Asia",
     "flag": "🇱🇦",
     "phone": "+856"
   },
-  "Lebanon": {
+  {
+    "name": "Lebanon",
     "countryCode": "LB",
     "continent": "Asia",
     "flag": "🇱🇧",
     "phone": "+961"
   },
-  "Saint Lucia": {
+  {
+    "name": "Saint Lucia",
     "countryCode": "LC",
     "continent": "North America",
     "flag": "🇱🇨",
     "phone": "+1758"
   },
-  "Liechtenstein": {
+  {
+    "name": "Liechtenstein",
     "countryCode": "LI",
     "continent": "Europe",
     "flag": "🇱🇮",
     "phone": "+423"
   },
-  "Sri Lanka": {
+  {
+    "name": "Sri Lanka",
     "countryCode": "LK",
     "continent": "Asia",
     "flag": "🇱🇰",
     "phone": "+94"
   },
-  "Liberia": {
+  {
+    "name": "Liberia",
     "countryCode": "LR",
     "continent": "Africa",
     "flag": "🇱🇷",
     "phone": "+231"
   },
-  "Lesotho": {
+  {
+    "name": "Lesotho",
     "countryCode": "LS",
     "continent": "Africa",
     "flag": "🇱🇸",
     "phone": "+266"
   },
-  "Lithuania": {
+  {
+    "name": "Lithuania",
     "countryCode": "LT",
     "continent": "Europe",
     "flag": "🇱🇹",
     "phone": "+370"
   },
-  "Luxembourg": {
+  {
+    "name": "Luxembourg",
     "countryCode": "LU",
     "continent": "Europe",
     "flag": "🇱🇺",
     "phone": "+352"
   },
-  "Latvia": {
+  {
+    "name": "Latvia",
     "countryCode": "LV",
     "continent": "Europe",
     "flag": "🇱🇻",
     "phone": "+371"
   },
-  "Libya": {
+  {
+    "name": "Libya",
     "countryCode": "LY",
     "continent": "Africa",
     "flag": "🇱🇾",
     "phone": "+218"
   },
-  "Morocco": {
+  {
+    "name": "Morocco",
     "countryCode": "MA",
     "continent": "Africa",
     "flag": "🇲🇦",
     "phone": "+212"
   },
-  "Monaco": {
+  {
+    "name": "Monaco",
     "countryCode": "MC",
     "continent": "Europe",
     "flag": "🇲🇨",
     "phone": "+377"
   },
-  "Moldova": {
+  {
+    "name": "Moldova",
     "countryCode": "MD",
     "continent": "Europe",
     "flag": "🇲🇩",
     "phone": "+373"
   },
-  "Montenegro": {
+  {
+    "name": "Montenegro",
     "countryCode": "ME",
     "continent": "Europe",
     "flag": "🇲🇪",
     "phone": "+382"
   },
-  "Saint Martin": {
+  {
+    "name": "Saint Martin",
     "countryCode": "MF",
     "continent": "North America",
     "flag": "🇲🇫",
     "phone": "+590"
   },
-  "Madagascar": {
+  {
+    "name": "Madagascar",
     "countryCode": "MG",
     "continent": "Africa",
     "flag": "🇲🇬",
     "phone": "+261"
   },
-  "Marshall Islands": {
+  {
+    "name": "Marshall Islands",
     "countryCode": "MH",
     "continent": "Oceania",
     "flag": "🇲🇭",
     "phone": "+692"
   },
-  "North Macedonia": {
+  {
+    "name": "North Macedonia",
     "countryCode": "MK",
     "continent": "Europe",
     "flag": "🇲🇰",
     "phone": "+389"
   },
-  "Mali": {
+  {
+    "name": "Mali",
     "countryCode": "ML",
     "continent": "Africa",
     "flag": "🇲🇱",
     "phone": "+223"
   },
-  "Myanmar (Burma)": {
+  {
+    "name": "Myanmar (Burma)",
     "countryCode": "MM",
     "continent": "Asia",
     "flag": "🇲🇲",
     "phone": "+95"
   },
-  "Mongolia": {
+  {
+    "name": "Mongolia",
     "countryCode": "MN",
     "continent": "Asia",
     "flag": "🇲🇳",
     "phone": "+976"
   },
-  "Macao": {
+  {
+    "name": "Macao",
     "countryCode": "MO",
     "continent": "Asia",
     "flag": "🇲🇴",
     "phone": "+853"
   },
-  "Northern Mariana Islands": {
+  {
+    "name": "Northern Mariana Islands",
     "countryCode": "MP",
     "continent": "Oceania",
     "flag": "🇲🇵",
     "phone": "+1670"
   },
-  "Martinique": {
+  {
+    "name": "Martinique",
     "countryCode": "MQ",
     "continent": "North America",
     "flag": "🇲🇶",
     "phone": "+596"
   },
-  "Mauritania": {
+  {
+    "name": "Mauritania",
     "countryCode": "MR",
     "continent": "Africa",
     "flag": "🇲🇷",
     "phone": "+222"
   },
-  "Montserrat": {
+  {
+    "name": "Montserrat",
     "countryCode": "MS",
     "continent": "North America",
     "flag": "🇲🇸",
     "phone": "+1664"
   },
-  "Malta": {
+  {
+    "name": "Malta",
     "countryCode": "MT",
     "continent": "Europe",
     "flag": "🇲🇹",
     "phone": "+356"
   },
-  "Mauritius": {
+  {
+    "name": "Mauritius",
     "countryCode": "MU",
     "continent": "Africa",
     "flag": "🇲🇺",
     "phone": "+230"
   },
-  "Maldives": {
+  {
+    "name": "Maldives",
     "countryCode": "MV",
     "continent": "Asia",
     "flag": "🇲🇻",
     "phone": "+960"
   },
-  "Malawi": {
+  {
+    "name": "Malawi",
     "countryCode": "MW",
     "continent": "Africa",
     "flag": "🇲🇼",
     "phone": "+265"
   },
-  "Mexico": {
+  {
+    "name": "Mexico",
     "countryCode": "MX",
     "continent": "North America",
     "flag": "🇲🇽",
     "phone": "+52"
   },
-  "Malaysia": {
+  {
+    "name": "Malaysia",
     "countryCode": "MY",
     "continent": "Asia",
     "flag": "🇲🇾",
     "phone": "+60"
   },
-  "Mozambique": {
+  {
+    "name": "Mozambique",
     "countryCode": "MZ",
     "continent": "Africa",
     "flag": "🇲🇿",
     "phone": "+258"
   },
-  "Namibia": {
+  {
+    "name": "Namibia",
     "countryCode": "NA",
     "continent": "Africa",
     "flag": "🇳🇦",
     "phone": "+264"
   },
-  "New Caledonia": {
+  {
+    "name": "New Caledonia",
     "countryCode": "NC",
     "continent": "Oceania",
     "flag": "🇳🇨",
     "phone": "+687"
   },
-  "Niger": {
+  {
+    "name": "Niger",
     "countryCode": "NE",
     "continent": "Africa",
     "flag": "🇳🇪",
     "phone": "+227"
   },
-  "Norfolk Island": {
+  {
+    "name": "Norfolk Island",
     "countryCode": "NF",
     "continent": "Oceania",
     "flag": "🇳🇫",
     "phone": "+672"
   },
-  "Nigeria": {
+  {
+    "name": "Nigeria",
     "countryCode": "NG",
     "continent": "Africa",
     "flag": "🇳🇬",
     "phone": "+234"
   },
-  "Nicaragua": {
+  {
+    "name": "Nicaragua",
     "countryCode": "NI",
     "continent": "North America",
     "flag": "🇳🇮",
     "phone": "+505"
   },
-  "Netherlands": {
+  {
+    "name": "Netherlands",
     "countryCode": "NL",
     "continent": "Europe",
     "flag": "🇳🇱",
     "phone": "+31"
   },
-  "Norway": {
+  {
+    "name": "Norway",
     "countryCode": "NO",
     "continent": "Europe",
     "flag": "🇳🇴",
     "phone": "+47"
   },
-  "Nepal": {
+  {
+    "name": "Nepal",
     "countryCode": "NP",
     "continent": "Asia",
     "flag": "🇳🇵",
     "phone": "+977"
   },
-  "Nauru": {
+  {
+    "name": "Nauru",
     "countryCode": "NR",
     "continent": "Oceania",
     "flag": "🇳🇷",
     "phone": "+674"
   },
-  "Niue": {
+  {
+    "name": "Niue",
     "countryCode": "NU",
     "continent": "Oceania",
     "flag": "🇳🇺",
     "phone": "+683"
   },
-  "New Zealand": {
+  {
+    "name": "New Zealand",
     "countryCode": "NZ",
     "continent": "Oceania",
     "flag": "🇳🇿",
     "phone": "+64"
   },
-  "Oman": {
+  {
+    "name": "Oman",
     "countryCode": "OM",
     "continent": "Asia",
     "flag": "🇴🇲",
     "phone": "+968"
   },
-  "Panama": {
+  {
+    "name": "Panama",
     "countryCode": "PA",
     "continent": "North America",
     "flag": "🇵🇦",
     "phone": "+507"
   },
-  "Peru": {
+  {
+    "name": "Peru",
     "countryCode": "PE",
     "continent": "South America",
     "flag": "🇵🇪",
     "phone": "+51"
   },
-  "French Polynesia": {
+  {
+    "name": "French Polynesia",
     "countryCode": "PF",
     "continent": "Oceania",
     "flag": "🇵🇫",
     "phone": "+689"
   },
-  "Papua New Guinea": {
+  {
+    "name": "Papua New Guinea",
     "countryCode": "PG",
     "continent": "Oceania",
     "flag": "🇵🇬",
     "phone": "+675"
   },
-  "Philippines": {
+  {
+    "name": "Philippines",
     "countryCode": "PH",
     "continent": "Asia",
     "flag": "🇵🇭",
     "phone": "+63"
   },
-  "Pakistan": {
+  {
+    "name": "Pakistan",
     "countryCode": "PK",
     "continent": "Asia",
     "flag": "🇵🇰",
     "phone": "+92"
   },
-  "Poland": {
+  {
+    "name": "Poland",
     "countryCode": "PL",
     "continent": "Europe",
     "flag": "🇵🇱",
     "phone": "+48"
   },
-  "Saint Pierre and Miquelon": {
+  {
+    "name": "Saint Pierre and Miquelon",
     "countryCode": "PM",
     "continent": "North America",
     "flag": "🇵🇲",
     "phone": "+508"
   },
-  "Pitcairn Islands": {
+  {
+    "name": "Pitcairn Islands",
     "countryCode": "PN",
     "continent": "Oceania",
     "flag": "🇵🇳",
     "phone": "+64"
   },
-  "Puerto Rico": {
+  {
+    "name": "Puerto Rico",
     "countryCode": "PR",
     "continent": "North America",
     "flag": "🇵🇷",
     "phone": "+1787"
   },
-  "Palestine": {
+  {
+    "name": "Palestine",
     "countryCode": "PS",
     "continent": "Asia",
     "flag": "🇵🇸",
     "phone": "+970"
   },
-  "Portugal": {
+  {
+    "name": "Portugal",
     "countryCode": "PT",
     "continent": "Europe",
     "flag": "🇵🇹",
     "phone": "+351"
   },
-  "Palau": {
+  {
+    "name": "Palau",
     "countryCode": "PW",
     "continent": "Oceania",
     "flag": "🇵🇼",
     "phone": "+680"
   },
-  "Paraguay": {
+  {
+    "name": "Paraguay",
     "countryCode": "PY",
     "continent": "South America",
     "flag": "🇵🇾",
     "phone": "+595"
   },
-  "Qatar": {
+  {
+    "name": "Qatar",
     "countryCode": "QA",
     "continent": "Asia",
     "flag": "🇶🇦",
     "phone": "+974"
   },
-  "Reunion": {
+  {
+    "name": "Reunion",
     "countryCode": "RE",
     "continent": "Africa",
     "flag": "🇷🇪",
     "phone": "+262"
   },
-  "Romania": {
+  {
+    "name": "Romania",
     "countryCode": "RO",
     "continent": "Europe",
     "flag": "🇷🇴",
     "phone": "+40"
   },
-  "Serbia": {
+  {
+    "name": "Serbia",
     "countryCode": "RS",
     "continent": "Europe",
     "flag": "🇷🇸",
     "phone": "+381"
   },
-  "Russia": {
+  {
+    "name": "Russia",
     "countryCode": "RU",
     "continent": "Asia",
     "flag": "🇷🇺",
     "phone": "+7"
   },
-  "Rwanda": {
+  {
+    "name": "Rwanda",
     "countryCode": "RW",
     "continent": "Africa",
     "flag": "🇷🇼",
     "phone": "+250"
   },
-  "Saudi Arabia": {
+  {
+    "name": "Saudi Arabia",
     "countryCode": "SA",
     "continent": "Asia",
     "flag": "🇸🇦",
     "phone": "+966"
   },
-  "Solomon Islands": {
+  {
+    "name": "Solomon Islands",
     "countryCode": "SB",
     "continent": "Oceania",
     "flag": "🇸🇧",
     "phone": "+677"
   },
-  "Seychelles": {
+  {
+    "name": "Seychelles",
     "countryCode": "SC",
     "continent": "Africa",
     "flag": "🇸🇨",
     "phone": "+248"
   },
-  "Sudan": {
+  {
+    "name": "Sudan",
     "countryCode": "SD",
     "continent": "Africa",
     "flag": "🇸🇩",
     "phone": "+249"
   },
-  "Sweden": {
+  {
+    "name": "Sweden",
     "countryCode": "SE",
     "continent": "Europe",
     "flag": "🇸🇪",
     "phone": "+46"
   },
-  "Singapore": {
+  {
+    "name": "Singapore",
     "countryCode": "SG",
     "continent": "Asia",
     "flag": "🇸🇬",
     "phone": "+65"
   },
-  "Saint Helena": {
+  {
+    "name": "Saint Helena",
     "countryCode": "SH",
     "continent": "Africa",
     "flag": "🇸🇭",
     "phone": "+290"
   },
-  "Slovenia": {
+  {
+    "name": "Slovenia",
     "countryCode": "SI",
     "continent": "Europe",
     "flag": "🇸🇮",
     "phone": "+386"
   },
-  "Svalbard and Jan Mayen": {
+  {
+    "name": "Svalbard and Jan Mayen",
     "countryCode": "SJ",
     "continent": "Europe",
     "flag": "🇸🇯",
     "phone": "+4779"
   },
-  "Slovakia": {
+  {
+    "name": "Slovakia",
     "countryCode": "SK",
     "continent": "Europe",
     "flag": "🇸🇰",
     "phone": "+421"
   },
-  "Sierra Leone": {
+  {
+    "name": "Sierra Leone",
     "countryCode": "SL",
     "continent": "Africa",
     "flag": "🇸🇱",
     "phone": "+232"
   },
-  "San Marino": {
+  {
+    "name": "San Marino",
     "countryCode": "SM",
     "continent": "Europe",
     "flag": "🇸🇲",
     "phone": "+378"
   },
-  "Senegal": {
+  {
+    "name": "Senegal",
     "countryCode": "SN",
     "continent": "Africa",
     "flag": "🇸🇳",
     "phone": "+221"
   },
-  "Somalia": {
+  {
+    "name": "Somalia",
     "countryCode": "SO",
     "continent": "Africa",
     "flag": "🇸🇴",
     "phone": "+252"
   },
-  "Suriname": {
+  {
+    "name": "Suriname",
     "countryCode": "SR",
     "continent": "South America",
     "flag": "🇸🇷",
     "phone": "+597"
   },
-  "South Sudan": {
+  {
+    "name": "South Sudan",
     "countryCode": "SS",
     "continent": "Africa",
     "flag": "🇸🇸",
     "phone": "+211"
   },
-  "Sao Tome and Principe": {
+  {
+    "name": "Sao Tome and Principe",
     "countryCode": "ST",
     "continent": "Africa",
     "flag": "🇸🇹",
     "phone": "+239"
   },
-  "El Salvador": {
+  {
+    "name": "El Salvador",
     "countryCode": "SV",
     "continent": "North America",
     "flag": "🇸🇻",
     "phone": "+503"
   },
-  "Sint Maarten": {
+  {
+    "name": "Sint Maarten",
     "countryCode": "SX",
     "continent": "North America",
     "flag": "🇸🇽",
     "phone": "+1721"
   },
-  "Syria": {
+  {
+    "name": "Syria",
     "countryCode": "SY",
     "continent": "Asia",
     "flag": "🇸🇾",
     "phone": "+963"
   },
-  "Eswatini": {
+  {
+    "name": "Eswatini",
     "countryCode": "SZ",
     "continent": "Africa",
     "flag": "🇸🇿",
     "phone": "+268"
   },
-  "Turks and Caicos Islands": {
+  {
+    "name": "Turks and Caicos Islands",
     "countryCode": "TC",
     "continent": "North America",
     "flag": "🇹🇨",
     "phone": "+1649"
   },
-  "Chad": {
+  {
+    "name": "Chad",
     "countryCode": "TD",
     "continent": "Africa",
     "flag": "🇹🇩",
     "phone": "+235"
   },
-  "French Southern Territories": {
+  {
+    "name": "French Southern Territories",
     "countryCode": "TF",
     "continent": "Antarctica",
     "flag": "🇹🇫",
     "phone": "+262"
   },
-  "Togo": {
+  {
+    "name": "Togo",
     "countryCode": "TG",
     "continent": "Africa",
     "flag": "🇹🇬",
     "phone": "+228"
   },
-  "Thailand": {
+  {
+    "name": "Thailand",
     "countryCode": "TH",
     "continent": "Asia",
     "flag": "🇹🇭",
     "phone": "+66"
   },
-  "Tajikistan": {
+  {
+    "name": "Tajikistan",
     "countryCode": "TJ",
     "continent": "Asia",
     "flag": "🇹🇯",
     "phone": "+992"
   },
-  "Tokelau": {
+  {
+    "name": "Tokelau",
     "countryCode": "TK",
     "continent": "Oceania",
     "flag": "🇹🇰",
     "phone": "+690"
   },
-  "East Timor": {
+  {
+    "name": "East Timor",
     "countryCode": "TL",
     "continent": "Oceania",
     "flag": "🇹🇱",
     "phone": "+670"
   },
-  "Turkmenistan": {
+  {
+    "name": "Turkmenistan",
     "countryCode": "TM",
     "continent": "Asia",
     "flag": "🇹🇲",
     "phone": "+993"
   },
-  "Tunisia": {
+  {
+    "name": "Tunisia",
     "countryCode": "TN",
     "continent": "Africa",
     "flag": "🇹🇳",
     "phone": "+216"
   },
-  "Tonga": {
+  {
+    "name": "Tonga",
     "countryCode": "TO",
     "continent": "Oceania",
     "flag": "🇹🇴",
     "phone": "+676"
   },
-  "Turkey": {
+  {
+    "name": "Turkey",
     "countryCode": "TR",
     "continent": "Asia",
     "flag": "🇹🇷",
     "phone": "+90"
   },
-  "Trinidad and Tobago": {
+  {
+    "name": "Trinidad and Tobago",
     "countryCode": "TT",
     "continent": "North America",
     "flag": "🇹🇹",
     "phone": "+1868"
   },
-  "Tuvalu": {
+  {
+    "name": "Tuvalu",
     "countryCode": "TV",
     "continent": "Oceania",
     "flag": "🇹🇻",
     "phone": "+688"
   },
-  "Taiwan": {
+  {
+    "name": "Taiwan",
     "countryCode": "TW",
     "continent": "Asia",
     "flag": "🇹🇼",
     "phone": "+886"
   },
-  "Tanzania": {
+  {
+    "name": "Tanzania",
     "countryCode": "TZ",
     "continent": "Africa",
     "flag": "🇹🇿",
     "phone": "+255"
   },
-  "Ukraine": {
+  {
+    "name": "Ukraine",
     "countryCode": "UA",
     "continent": "Europe",
     "flag": "🇺🇦",
     "phone": "+380"
   },
-  "Uganda": {
+  {
+    "name": "Uganda",
     "countryCode": "UG",
     "continent": "Africa",
     "flag": "🇺🇬",
     "phone": "+256"
   },
-  "U.S. Minor Outlying Islands": {
+  {
+    "name": "U.S. Minor Outlying Islands",
     "countryCode": "UM",
     "continent": "Oceania",
     "flag": "🇺🇲",
     "phone": "+1"
   },
-  "United States": {
+  {
+    "name": "United States",
     "countryCode": "US",
     "continent": "North America",
     "flag": "🇺🇸",
     "phone": "+1"
   },
-  "Uruguay": {
+  {
+    "name": "Uruguay",
     "countryCode": "UY",
     "continent": "South America",
     "flag": "🇺🇾",
     "phone": "+598"
   },
-  "Uzbekistan": {
+  {
+    "name": "Uzbekistan",
     "countryCode": "UZ",
     "continent": "Asia",
     "flag": "🇺🇿",
     "phone": "+998"
   },
-  "Vatican City": {
+  {
+    "name": "Vatican City",
     "countryCode": "VA",
     "continent": "Europe",
     "flag": "🇻🇦",
     "phone": "+379"
   },
-  "Saint Vincent and the Grenadines": {
+  {
+    "name": "Saint Vincent and the Grenadines",
     "countryCode": "VC",
     "continent": "North America",
     "flag": "🇻🇨",
     "phone": "+1784"
   },
-  "Venezuela": {
+  {
+    "name": "Venezuela",
     "countryCode": "VE",
     "continent": "South America",
     "flag": "🇻🇪",
     "phone": "+58"
   },
-  "British Virgin Islands": {
+  {
+    "name": "British Virgin Islands",
     "countryCode": "VG",
     "continent": "North America",
     "flag": "🇻🇬",
     "phone": "+1284"
   },
-  "U.S. Virgin Islands": {
+  {
+    "name": "U.S. Virgin Islands",
     "countryCode": "VI",
     "continent": "North America",
     "flag": "🇻🇮",
     "phone": "+1340"
   },
-  "Vietnam": {
+  {
+    "name": "Vietnam",
     "countryCode": "VN",
     "continent": "Asia",
     "flag": "🇻🇳",
     "phone": "+84"
   },
-  "Vanuatu": {
+  {
+    "name": "Vanuatu",
     "countryCode": "VU",
     "continent": "Oceania",
     "flag": "🇻🇺",
     "phone": "+678"
   },
-  "Wallis and Futuna": {
+  {
+    "name": "Wallis and Futuna",
     "countryCode": "WF",
     "continent": "Oceania",
     "flag": "🇼🇫",
     "phone": "+681"
   },
-  "Samoa": {
+  {
+    "name": "Samoa",
     "countryCode": "WS",
     "continent": "Oceania",
     "flag": "🇼🇸",
     "phone": "+685"
   },
-  "Kosovo": {
+  {
+    "name": "Kosovo",
     "countryCode": "XK",
     "continent": "Europe",
     "flag": "🇽🇰",
     "phone": "+377"
   },
-  "Yemen": {
+  {
+    "name": "Yemen",
     "countryCode": "YE",
     "continent": "Asia",
     "flag": "🇾🇪",
     "phone": "+967"
   },
-  "Mayotte": {
+  {
+    "name": "Mayotte",
     "countryCode": "YT",
     "continent": "Africa",
     "flag": "🇾🇹",
     "phone": "+262"
   },
-  "South Africa": {
+  {
+    "name": "South Africa",
     "countryCode": "ZA",
     "continent": "Africa",
     "flag": "🇿🇦",
     "phone": "+27"
   },
-  "Zambia": {
+  {
+    "name": "Zambia",
     "countryCode": "ZM",
     "continent": "Africa",
     "flag": "🇿🇲",
     "phone": "+260"
   },
-  "Zimbabwe": {
+  {
+    "name": "Zimbabwe",
     "countryCode": "ZW",
     "continent": "Africa",
     "flag": "🇿🇼",
     "phone": "+263"
   }
-}
+]
