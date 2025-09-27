@@ -13,8 +13,8 @@ const tableHeaders: string[] = [" ", "Code", "Airport Name", "City", "Country", 
 </script>
 
 <template>
-  <div class="table-wrapper">
-    <table class="table table-striped table-responsive">
+  <div class="table-wrapper hide-scrollbar">
+    <table class="table table-striped table-responsive table-bordered">
       <thead>
         <tr>
           <td
@@ -46,5 +46,18 @@ const tableHeaders: string[] = [" ", "Code", "Airport Name", "City", "Country", 
 .table-wrapper {
   height: 80vh;
   overflow-y: auto;
+}
+
+.hide-scrollbar {
+  overflow: auto;
+  scrollbar-width: none;
+  /* Firefox */
+  -ms-overflow-style: none;
+  /* IE 10+ */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Opera */
 }
 </style>
