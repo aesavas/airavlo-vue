@@ -1,12 +1,16 @@
 <script setup lang="ts">
-const emit = defineEmits(["update:searchQuery"])
+import { useAirportStore } from '@/stores/airports'
+
+const airportStore = useAirportStore()
+
+const { setSearchQuery } = airportStore
 </script>
 
 <template>
   <div class="row mb-3">
-    <div class="col-6">
+    <div class="col-8">
       <input
-        @input="emit('update:searchQuery', ($event.target as HTMLSelectElement).value)"
+        @input="setSearchQuery(($event.target as HTMLSelectElement).value)"
         type="text"
         class="form-control"
         placeholder="Search by airport code, name, city or country..."
