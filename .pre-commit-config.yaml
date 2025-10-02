@@ -12,7 +12,7 @@ repos:
       - id: eslint
         files: \.(ts|tsx|vue)$
         additional_dependencies:
-          - eslint
+          - 'eslint'
           - '@typescript-eslint/parser'
           - '@typescript-eslint/eslint-plugin'
           - 'eslint-plugin-vue'
