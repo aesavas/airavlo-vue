@@ -25,7 +25,12 @@ export interface IAirport {
 }
 
 export interface ICountry {
+  name: string
   countryCode: string
   continent: string
   flag: string
 }
+
+export type Types = "Domestic" | "International"
+
+export type PassengerVolume = "Medium" | "Large" | "Major Hub"
