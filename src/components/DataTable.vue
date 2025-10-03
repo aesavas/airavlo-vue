@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import type { IAirport } from '@/types'
+import { ref } from 'vue'
+import AirportModal from './AirportModal.vue'
 
 defineProps({
   airports: {
@@ -9,6 +11,15 @@ defineProps({
 })
 
 const tableHeaders: string[] = [" ", "Code", "Airport Name", "City", "Country", "More Details"]
+
+const showModal = ref(false)
+
+const selectedAirport = ref<IAirport | null>(null)
+
+const showAirportModal = (airport: IAirport) => {
+  selectedAirport.value = airport
+  showModal.value = true
+}
 
 </script>
 
@@ -35,7 +46,10 @@ const tableHeaders: string[] = [" ", "Code", "Airport Name", "City", "Country", 
             <td>{{ airport.name }}</td>
             <td>{{ airport.city }}</td>
             <td>{{ airport.country }}</td>
-            <td><button class="btn btn-link link-offset-2 link-underline link-underline-opacity-0">🔍 More info</button>
+            <td><button
+                @click="showAirportModal(airport)"
+                class="btn btn-link link-offset-2 link-underline link-underline-opacity-0"
+              >🔍 More info</button>
             </td>
           </tr>
         </template>
@@ -50,6 +64,11 @@ const tableHeaders: string[] = [" ", "Code", "Airport Name", "City", "Country", 
       </tbody>
     </table>
   </div>
+  <AirportModal
+    :airport="selectedAirport"
+    :show="showModal"
+    @close="showModal = false"
+  />
 </template>
 
 <style scoped>
