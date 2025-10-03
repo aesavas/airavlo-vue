@@ -30,41 +30,53 @@ watch(filters, () => {
 </script>
 
 <template>
-  <div class="row align-items-stretch">
-    <ContinentFilter
-      :selected-continent="filters.continent"
-      @update:selected-continent="v => filters.continent = v"
-    />
-    <CountryFilter
-      :selected-country="filters.country"
-      @update:selected-country="v => filters.country = v"
-    />
-    <div class="col-4 d-flex justify-content-end">
+  <div class="row align-items-stretch flex-column-reverse flex-md-row mb-3 mb-md-0">
+    <div class="col-md-8">
+      <div class="row">
+        <ContinentFilter
+          class="col-12 col-md-6 mb-3 mb-md-0"
+          :selected-continent="filters.continent"
+          @update:selected-continent="v => filters.continent = v"
+        />
+        <CountryFilter
+          class="col-12 col-md-6"
+          :selected-country="filters.country"
+          @update:selected-country="v => filters.country = v"
+        />
+      </div>
+    </div>
+
+    <div class="col-md-4 d-flex justify-content-md-end mb-3 mb-md-0">
       <button
         class="btn btn-secondary"
         style="height: 3.5rem;"
-        @click="
-          showMoreFilters = !showMoreFilters"
-      >{{ showMoreFilters ? 'Less Filters' : 'More Filters' }}</button>
+        @click="showMoreFilters = !showMoreFilters"
+      >
+        {{ showMoreFilters ? 'Less Filters' : 'More Filters' }}
+      </button>
       <button
         class="btn btn-secondary ms-2"
         style="height: 3.5rem;"
         @click="clearFilter"
-      >Clear Filters</button>
+      >
+        Clear Filter
+      </button>
     </div>
-  </div>
-  <div
-    class="row"
-    v-if="showMoreFilters"
-  >
-    <PassengerVolumeFilter
-      :selected-volume="filters.passengerVolume"
-      @update:selected-volume="v => filters.passengerVolume = v"
-    />
-    <TypeFilter
-      :selected-type="filters.type"
-      @update:selected-type="v => filters.type = v"
-    />
+
   </div>
 
+  <div :class="['collapse', { 'show': showMoreFilters }]">
+    <div class="row">
+      <PassengerVolumeFilter
+        class="col-12 col-md-4 mb-3 mb-md-0"
+        :selected-volume="filters.passengerVolume"
+        @update:selected-volume="v => filters.passengerVolume = v"
+      />
+      <TypeFilter
+        class="col-12 col-md-4"
+        :selected-type="filters.type"
+        @update:selected-type="v => filters.type = v"
+      />
+    </div>
+  </div>
 </template>
