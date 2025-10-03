@@ -8,7 +8,7 @@ const { setSearchQuery } = airportStore
 
 <template>
   <div class="row mb-3">
-    <div class="col-8">
+    <div class="col-12 col-md-8">
       <input
         @input="setSearchQuery(($event.target as HTMLSelectElement).value)"
         type="text"
