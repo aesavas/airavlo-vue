@@ -33,7 +33,7 @@ export interface ICountry {
 
 export type Types = "Domestic" | "International"
 
-export type PassengerVolume = "Medium" | "Large" | "Major Hub"
+export type PassengerVolume = "All" | "Medium" | "Large" | "Major Hub"
 
 export interface ISortOption {
   id: number

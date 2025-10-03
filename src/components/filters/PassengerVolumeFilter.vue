@@ -2,7 +2,7 @@
 import type { PassengerVolume } from "@/types"
 import BaseFilter from "./BaseFilter.vue"
 
-const passengerVolumes: PassengerVolume[] = ["Medium", "Large", "Major Hub"]
+const passengerVolumes: PassengerVolume[] = ["All", "Medium", "Large", "Major Hub"]
 
 defineProps({
   selectedVolume: String
