@@ -14,7 +14,7 @@ defineEmits(["update:selectedValue"])
 </script>
 
 <template>
-  <div class="col-4">
+  <div class="col-md-4">
     <div class="form-floating">
       <select
         :value="selectedValue"
