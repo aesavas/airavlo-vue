@@ -1,0 +1,60 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Airport Modal Component > render airport modal test with show prop false 1`] = `
+"<!-- Main modal container -->
+<div class="modal fade" style="display: none;" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <!--v-if-->
+  </div>
+</div>
+<!-- Backdrop element required by Bootstrap -->
+<!--v-if-->"
+`;
+
+exports[`Airport Modal Component > render airport modal with props 1`] = `
+"<!-- Main modal container -->
+<div class="modal fade show" style="display: block;" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Test Airport (TEST)</h5><button type="button" class="btn-close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-6">
+            <p><strong>City:</strong> Test City</p>
+            <p><strong>Country:</strong> Test Country</p>
+            <p><strong>Continent:</strong> Test Continent</p>
+          </div>
+          <div class="col-6">
+            <p><strong>Year Opened:</strong> 2020</p>
+            <p><strong>Type:</strong> Test Type</p>
+            <p><strong>Passenger Volume:</strong> Major Hub</p>
+          </div>
+        </div>
+        <div class="row">
+          <p><strong>Website:</strong> <a href="https://testairport.com">https://testairport.com</a></p>
+        </div>
+        <div class="row">
+          <div class="accordion mt-2 mb-3" id="accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                  <p><strong>Major Airlines:</strong></p>
+                </button></h2>
+              <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion">
+                <div class="accordion-body">
+                  <div>🛫 Test Airline 1</div>
+                  <div>🛫 Test Airline 2</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row"><iframe width="300" height="200" frameborder="0" style="border: 0px;" src="https://www.google.com/maps?q=0,0&amp;z=15&amp;output=embed" allowfullscreen=""></iframe></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Backdrop element required by Bootstrap -->
+<div class="modal-backdrop fade show"></div>"
+`;
