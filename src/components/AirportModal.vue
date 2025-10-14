@@ -2,28 +2,15 @@
 import type { IAirport } from '@/types'
 import AirlineList from './AirlineList.vue'
 
-// 1. Define the props interface
 interface Props {
   airport: IAirport | null
   show?: boolean
 }
 
-// 2. Use withDefaults to provide default values
 withDefaults(defineProps<Props>(), {
   show: false,
   airport: null
 })
-
-// defineProps<{
-//   airport: {
-//     type: IAirport | null
-//     default: null
-//   }
-//   show?: {
-//     type: boolean
-//     default: false
-//   }
-// }>()
 
 defineEmits(['close'])
 </script>
@@ -43,7 +30,6 @@ defineEmits(['close'])
       >
         <div class="modal-header">
           <h5 class="modal-title">{{ airport.name }} ({{ airport.code }})</h5>
-          <!-- 4. Emit the 'close' event on click -->
           <button
             type="button"
             class="btn-close"
@@ -80,8 +66,6 @@ defineEmits(['close'])
             >
             </iframe>
           </div>
-
-
         </div>
       </div>
     </div>
