@@ -55,6 +55,6 @@ npm run dev
 
 This project will be extended with additional features, including:
 
-- [ ] **Unit Tests**: Write comprehensive unit tests for components and utility functions.
+- [X] **Unit Tests**: Write comprehensive unit tests for components and utility functions.
 - [ ] **Pagination**: Add pagination to the data table to handle larger datasets gracefully.
 - [ ] **CI/CD Pipeline**: Set up a basic CI/CD pipeline using GitHub Actions.
