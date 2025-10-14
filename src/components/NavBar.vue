@@ -11,7 +11,7 @@
         ✈️ Airavlo
       </a>
       <a
-        href="https://github.com/aliemresavas/airavlo-vue"
+        href="https://github.com/aesavas/airavlo-vue"
         target="_blank"
         class="navbar-brand"
       >
